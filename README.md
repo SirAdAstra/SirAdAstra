@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Alexandr Cojuhari 👋
+# Hi there, I'm Alexandr 👋
 
 ### Welcome to my personal orbit on GitHub 🌌
 
