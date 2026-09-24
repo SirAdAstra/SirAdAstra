@@ -58,6 +58,14 @@ A gameplay utility focused on keeping player bases clean by preventing vegetatio
 * Dynamic pricing tiers and speed multipliers.
 * Real-time shipment tracking.
 
+### 📦 [StockSentry](https://github.com/SirAdAstra/StockSentry)
+> **A warehouse inventory API with automatic low-stock alerts, built on ASP.NET Core, EF Core, and Kafka.** 🚧 *Work in progress*
+
+- Layered architecture (API / Application / Domain / Infrastructure) with a decoupled Kafka consumer worker.
+- Event-driven low-stock alerting: stock movements trigger Kafka events, consumed and persisted by a separate service.
+- JWT authentication with role-based access (Admin / Manager / Viewer).
+- PostgreSQL via EF Core, dockerized local environment with pgAdmin and Kafka UI.
+
 ---
 
 ## 📊 Galactic Activity
