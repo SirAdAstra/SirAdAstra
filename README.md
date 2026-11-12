@@ -52,8 +52,8 @@ A gameplay utility focused on keeping player bases clean by preventing vegetatio
 * Modular JavaScript logic and CSS loading states.
 
 ### 🚚 [Dostaffkin Delivery App](https://github.com/SirAdAstra/dostaffkin)
-> **A modern, responsive multi-page delivery calculator and tracking web application built with Angular 21.** 🛰️ *Map migration in progress*
-* Interactive map with Leaflet and OpenStreetMap; address suggestions and routes from the Geoapify API.
+> **A modern, responsive multi-page delivery calculator and tracking web application built with Angular 21.**
+* Interactive Leaflet map with Geoapify tiles (OpenStreetMap data); address suggestions and routes from the Geoapify API.
 * Reactive Forms and validation with RxJS networking.
 * Dynamic pricing tiers and speed multipliers.
 * Real-time shipment tracking.
